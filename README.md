@@ -1,6 +1,6 @@
 # Theonepieceisreal
 <h1>The One Piece  </h1>
-![image](whitebeard.png)
+![(whitebeard.png](srs)
 
 <h2>The One Piece is real!</h2>
 
