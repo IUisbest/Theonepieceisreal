@@ -7,3 +7,5 @@
 ![download (7)324234](https://user-images.githubusercontent.com/114511578/193320767-d2d2d2e9-c910-4840-b287-3a9df0ef160a.png)
 
 <p> You are going to need a strong and trusting pirate crew to help you throught your adventures.</p>
+
+<p>2. Get a ship</p>
